@@ -1,6 +1,6 @@
 // Modules
-#include <./module_one.caz>
-#include <./module_two.caz>
+#include <./module_one.sls>
+#include <./module_two.sls>
 
 // Example print and comment
 print "Hello, this is Cuarzo~n~This is new line~n~Colors: ~r~RED ~g~GREEN ~y~YELLOW ~b~BLUE ~m~MAGENTA ~c~CYAN ~w~WHITE ~n~"

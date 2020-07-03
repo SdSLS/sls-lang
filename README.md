@@ -1,3 +1,4 @@
+# SLS-Lang
 SLS-Lang es el lenguaje ideal si eres venezolano, pobre o si tenes de nombre sls. Este lenguaje esta programado en Python lo que lo hace de altisimo nivel, quiere decir que es un lenguaje a nivel nube.
 
 # Features
@@ -5,7 +6,7 @@ SLS-Lang es el lenguaje ideal si eres venezolano, pobre o si tenes de nombre sls
 - Formatos
 - Variables
 - Colorsitos corte samp
-- Sockets
+- Sockets para derribar a cualquier server de un solo pepaso
 - Modulos
 
 # Ejmplos
