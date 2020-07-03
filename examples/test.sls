@@ -3,7 +3,7 @@
 #include <./module_two.sls>
 
 // Example print and comment
-print "Hello, this is Cuarzo~n~This is new line~n~Colors: ~r~RED ~g~GREEN ~y~YELLOW ~b~BLUE ~m~MAGENTA ~c~CYAN ~w~WHITE ~n~"
+print "Hola mugroso~n~Puto el que lee~n~Colors: ~r~RED ~g~GREEN ~y~YELLOW ~b~BLUE ~m~MAGENTA ~c~CYAN ~w~WHITE ~n~"
 
 // Variables example
 new float:flotante = 1.5
