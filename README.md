@@ -1,7 +1,7 @@
 # SLS-Lang
 SLS-Lang es el lenguaje ideal si eres venezolano, pobre o si tenes de nombre sls. Este lenguaje esta programado en Python lo que lo hace de altisimo nivel, quiere decir que es un lenguaje a nivel nube.
 
-# Features
+# Cosas k tiene
 - Print
 - Formatos
 - Variables
@@ -37,3 +37,6 @@ print "El valor de flotante es: ~c~{flotante}~w~"
 print "El valor de boolean es: ~c~{boolean}~w~"
 print "El valor de entero es: ~c~{entero}~w~"
 ```
+
+# Proyectos de ejemplo
+- FORMOSA_TUMBERO.sls: Esto tira cualquier server de samp al puerto default
